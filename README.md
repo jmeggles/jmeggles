@@ -1,16 +1,20 @@
-### Hi there 👋
+# Jody Eggleston 👋
+[![Linkedin Icon](https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jody-eggleston/)](https://www.linkedin.com/in/jody-eggleston/)
+[![Github Icon](https://img.shields.io/github/followers/jmeggles?color=pink&label=Follow%20Me&style=social)](https://github.com/jmeggles)
+<br>
 
-<!--
-**jmeggles/jmeggles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer with an extensive background in logistics, experience in nutrition, health & fitness, and education in criminal justice.
+<br><br>
 
-Here are some ideas to get you started:
+## Stack 
+<code><img height="25" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<br><br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![Jody's stats](https://github-readme-stats.vercel.app/api?username=jmeggles&show_icons=true)
