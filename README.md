@@ -2,7 +2,7 @@
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jody-eggleston/)](https://www.linkedin.com/in/jody-eggleston/)
 [![Github Icon](https://img.shields.io/github/followers/jmeggles?color=pink&label=Follow%20Me&style=social)](https://github.com/jmeggles)
 
-Full stack web developer.  I have extensive knowledge in logistics, experience in nutrition, health & fitness, and education in criminal justice. 
+Full stack web developer with strong front end skills and an interest in Javascript.  I have extensive knowledge in logistics, experience in nutrition, health & fitness, and education in criminal justice. I love learning and have a new passion for coding!
 <br><br>
 
 ## Stack 
