@@ -1,4 +1,4 @@
-# Jody Eggleston 
+# Jodes
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jody-eggleston/)](https://www.linkedin.com/in/jody-eggleston/)
 [![Github Icon](https://img.shields.io/github/followers/jmeggles?color=pink&label=Follow%20Me&style=social)](https://github.com/jmeggles)
 
