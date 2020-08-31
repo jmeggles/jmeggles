@@ -1,5 +1,6 @@
 # Jodes
-[Portfolio](https://jmeggles.github.io/Portfolio-mini-with-React/)
+![Portfolio Icon](https://jmeggles.github.io/Portfolio-mini-with-React/)
+<code><img height="30" src="assets/images/portfolio-pic.png" href="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <br>
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jody-eggleston/)](https://www.linkedin.com/in/jody-eggleston/)
 <br>
