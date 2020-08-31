@@ -1,10 +1,10 @@
 # Jodes
-![Portfolio Icon](https://jmeggles.github.io/Portfolio-mini-with-React/)
-<code><img height="30" src="assets/images/portfolio-pic.png" href="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+
+<code><a href="https://jmeggles.github.io/Portfolio-mini-with-React/"> <img height="100"  src="assets/images/portfolio-pic.png" ></code>
 <br>
-[![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jody-eggleston/)](https://www.linkedin.com/in/jody-eggleston/)
+[![Linkedin Icon](https://img.shields.io/badge/-%60linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jody-eggleston/)](https://www.linkedin.com/in/jody-eggleston/)
 <br>
-[![Github Icon](https://img.shields.io/github/followers/jmeggles?color=pink&label=Follow%20Me&style=social)](https://github.com/jmeggles)
+[![Github Icon](https://img.shields.io/github/followers/jmeggles?color=pink&label=Follow%40Me&style=social)](https://github.com/jmeggles)
 
 Full stack web developer with front end skills and an interest in Javascript.  I have extensive knowledge in logistics, experience in nutrition, health & fitness, and education in criminal justice. I love learning and have a new passion for coding!
 <br><br>
