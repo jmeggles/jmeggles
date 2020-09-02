@@ -20,5 +20,5 @@ Full stack web developer with front end skills and an interest in Javascript.  I
 <code><img height="35" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
 <code><img height="35" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"><br><br></code> 
 
-### Stats
+### Statss
 ![Jody's stats](https://github-readme-stats.vercel.app/api?username=jmeggles&show_icons=true)
