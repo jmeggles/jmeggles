@@ -8,7 +8,7 @@
 <br>
 [![Mail](https://img.shields.io/badge/-jmeggles@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:jmeggles@gmail.com)
 
-Full stack web developer with front end skills and an interest in Javascript.  I have extensive knowledge in logistics, experience in nutrition, health & fitness, and education in criminal justice. I love learning and have a new passion for coding!
+Web developer with frontend and backend skills.  I have extensive knowledge in logistics supervision plus experience in nutrition, health & fitness, and criminal justice. I love learning and have a new passion for coding!
 <br><br>
 
 ## Stack 
