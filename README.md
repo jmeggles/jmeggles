@@ -1,6 +1,6 @@
 # Jodes
 
-[My Portfolio](https://jmeggles.github.io/Portfolio/)
+[My Portfolio](https://www.jodes.codes/)
 <br>
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jody-eggleston/)](https://www.linkedin.com/in/jody-eggleston/)
 <br>
